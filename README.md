@@ -24,8 +24,8 @@ X Import `Menu.less` from the correct path into index.less (follow the example f
 X Follow the instructions found in the Menu.js file to complete the JavaScript functionality.  NOTE: Start near the bottom of the page by looking for `const menu`.
 
 ### Part 2: The Articles Component
-* Import `Article.less` from the correct path into index.less (follow the example for `Header.less` if you’re not sure how to write the correct path)
-* Follow the instructions found in the Articles.js file to complete the JavaScript functionality.  NOTE: Start near the bottom of the page by looking for `let articles`.
+X Import `Article.less` from the correct path into index.less (follow the example for `Header.less` if you’re not sure how to write the correct path)
+X Follow the instructions found in the Articles.js file to complete the JavaScript functionality.  NOTE: Start near the bottom of the page by looking for `let articles`.
 
 ### Part 3: Add Articles
 
